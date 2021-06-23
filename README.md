@@ -1,4 +1,4 @@
-# min_project
+# FACE RECOGNITION BASED ATTENDANCE MONITORING SYSTEM
 Abstract:
 Face is the representation of one’s identity.Hence, we have proposed an  automated student attendence system based on face recognition.
 Face recognition system is very useful in life application especially in security control systems.
